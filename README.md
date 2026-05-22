@@ -19,7 +19,7 @@ I bridge the gap between low-level hardware and intelligent software. Currently 
 ### ⚡ Featured Projects
 
 #### 🔊 [Wearable AI Audio Translator](https://github.com/Kaybee098/Edge-and-Optimization-on-Wearable-AI-Audio-Translator-)
-*   **Role:** Lead Edge and Optimization Engineering
+*   **Role:** Edge and Optimization
 *   **Tech:** Raspberry Pi Zero 2W, ESP32, C++, Python
 *   **Description:** An industrial-grade, low-latency wearable translation device optimized to run efficient AI models directly on edge hardware.
 
