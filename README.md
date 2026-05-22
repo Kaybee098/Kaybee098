@@ -52,5 +52,5 @@ I bridge the gap between low-level hardware and intelligent software. Currently 
 ---
 
 ### 📫 Let's Connect
-*   💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/kabelo-mkhwebane-92540b273)
-*   📧 **Email:** [your.email@example.com](mailto:kabzakaybee09@gmail.com)
+*   💼 **LinkedIn:** [www.linkedin.com/in/kabelo-mkhwebane-92540b273](www.linkedin.com/in/kabelo-mkhwebane-92540b273)
+*   📧 **Email:** [kabzakaybee09@gmail.com](mailto:kabzakaybee09@gmail.com)
