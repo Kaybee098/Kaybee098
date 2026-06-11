@@ -1,7 +1,7 @@
 # Hi there, I'm Kabelo Mkhwebane 👋
 
-### 🚀 Computer Engineering Student @ CPUT | Edge & Optimization Engineer
-I bridge the gap between low-level hardware and intelligent software. Currently focusing on resource-constrained embedded systems, edge AI optimization, and hardware-software integration.
+### 🚀 Computer Engineering Student & Edge AI / Network Developer
+[cite_start]I am a Computer Engineering student at Cape Peninsula University of Technology [cite: 4, 5][cite_start], focusing on hardware-software integration, low-latency edge AI optimization [cite: 9, 10, 11][cite_start], and robust network architecture[cite: 13, 14]. [cite_start]I enjoy building systems that bridge physical hardware with responsive, intelligent software pipelines[cite: 17, 18].
 
 ---
 
@@ -9,48 +9,44 @@ I bridge the gap between low-level hardware and intelligent software. Currently 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C, C++, Python, JavaScript, html |
-| **Hardware & IoT** | ESP32, Raspberry Pi (Zero 2W), Arduino, Microcontrollers, Circuit Diagnostics |
-| **AI & Cloud** | Edge AI Optimization, Local LLMs,SLMs, AWS Cloud & AI Fundamentals |
-| **Tools & OS** | Git, GitHub, Linux, Thonny, VS Code |
+| **Programming Languages** | [cite_start]C, C++, Java, JavaScript, HTML, CSS [cite: 23] |
+| **Frameworks & Software** | [cite_start]WebGL, GNS3, MySQL, VS Code, Windows Server 2019 [cite: 24] |
+| **Core Technical Competencies** | [cite_start]Embedded Systems, Network Administration, Digital Electronics [cite: 6] |
+| **Spoken Languages** | [cite_start]IsiZulu (Fluent), English (Fluent) [cite: 25] |
 
 ---
 
 ### ⚡ Featured Projects
 
-#### 🔊 [Wearable AI Audio Translator](https://github.com/Kaybee098/Edge-and-Optimization-on-Wearable-AI-Audio-Translator-)
-*   **Role:** Edge and Optimization
-*   **Tech:** Raspberry Pi Zero 2W, ESP32, C++, Python
-*   **Description:** An industrial-grade, low-latency wearable translation device optimized to run efficient AI models directly on edge hardware.
+#### 🔊 [Wearable AI Audio Translator](https://github.com/Kaybee098) (Industrial Project 3) | [cite_start]*Feb 2026 – Present* [cite: 2, 8]
+* [cite_start]**Core Tech:** Python, Vosk Library, Raspberry Pi Zero 2W [cite: 9, 10, 11]
+* [cite_start]**The Mission:** Developing an **offline speech-to-text (STT) and machine translation system** designed specifically for resource-constrained edge computing hardware[cite: 9, 11].
+* [cite_start]**Key Focus:** Implementing **quantized models** to maximize execution performance directly on-device[cite: 10].
 
-#### 🐍 [WebGL Snake Game](https://github.com/Kaybee098/Snake-Game-in-WebGL)
-*   **Tech:** JavaScript, WebGL, HTML5
-*   **Description:** A lightweight, high-performance browser game experimenting with low-level graphic rendering pipelines and clean UI design.
+#### 🌐 [GNS3 Network Configuration & Design](https://github.com/Kaybee098) | [cite_start]*Feb 2025 - Nov 2025* [cite: 2, 12]
+* [cite_start]**Core Tech:** GNS3, Routing & Switching Protocols, Subnetting [cite: 12, 13, 14]
+* [cite_start]**The Mission:** Built, simulated, and stress-tested scalable network topologies[cite: 13].
+* [cite_start]**Key Focus:** Troubleshooting and optimizing data packet flow to ensure maximum performance and security[cite: 14, 15].
 
----
+#### 🤖 [Embedded Systems Engineering](https://github.com/Kaybee098) | [cite_start]*Feb 2025 - Nov 2025* [cite: 2, 16]
+* [cite_start]**Core Tech:** Arduino, Sensors, Actuators [cite: 17]
+* [cite_start]**The Mission:** Built autonomous hardware platforms by bridging real-time physical sensor data with cohesive software operational logic[cite: 17, 18].
 
-### 📈 Current Focus & Deep Dives
-
-*   🧠 **Edge Computing:** Minimizing model footprints to maximize performance on microcontrollers.
-*   ⚡ **Hardware Prototyping:** Custom PCB integration, soldering, and low-level diagnostic debugging.
-*   🏁 **Continuous Learning:** Constantly pushing my limits on daily typing precision and layout architecture.
-
----
-
-### 🎓 Timeline
-
-*   🎓 **Final Module Completion:** Expected Late 2027
-*   📜 **Graduation:** April 2027 (BTech in Computer Engineering)
+#### 🐍 [WebGL Snake Game](https://github.com/Kaybee098) | [cite_start]*Mar 2024 - June 2024* [cite: 2, 19]
+* [cite_start]**Core Tech:** JavaScript, WebGL, HTML5 [cite: 20]
+* [cite_start]**The Mission:** Programmed a functional, browser-based game focusing on structural game-state logic and low-level graphics rendering pipelines[cite: 20, 21].
 
 ---
 
-### 📊 GitHub Stats
+### 🎓 Education & Timeline
 
-![Kabelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
+* [cite_start]🎓 **Bachelor of Engineering Technology in Computer Engineering** [cite: 5]
+    * [cite_start]*Cape Peninsula University of Technology (Bellville, Western Cape)* [cite: 4]
+    * [cite_start]*Expected Graduation:* **April 2027** [cite: 4]
 
----
+
 
 ### 📫 Let's Connect
-*   💼 **LinkedIn:** [www.linkedin.com/in/kabelo-mkhwebane-92540b273](www.linkedin.com/in/kabelo-mkhwebane-92540b273)
-*   📧 **Email:** [kabzakaybee09@gmail.com](mailto:kabzakaybee09@gmail.com)
+
+* [cite_start]💼 **LinkedIn:** [linkedin.com/in/kabelo-mkhwebane-92540b273](https://www.linkedin.com/in/kabelo-mkhwebane-92540b273) [cite: 2]
+* [cite_start]📧 **Email:** [kabelomkhwebane1@gmail.com](mailto:kabelomkhwebane1@gmail.com) [cite: 2]
